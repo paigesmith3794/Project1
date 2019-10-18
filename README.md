@@ -1,4 +1,4 @@
-# Project1
+# No-Tify
 
 Deployed Project Link:
 https://paigesmith3794.github.io/Project1/ 
